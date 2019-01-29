@@ -21,3 +21,7 @@ if anyone is. That is supposed to be meritocracy? That is offensive to even sugg
 We need to start the discussion of how to shut down that project, shutdown people claiming roles they have no ability
 to fulfill because its a danger to the entire community and will hurt everyone long as they care more about the little
 power they got, than the actual state of the project. 
+
+
+## Plan of Action
+We should first ask politely for them to step down and do the right thing. 
