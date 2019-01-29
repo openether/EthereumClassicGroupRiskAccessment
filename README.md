@@ -8,6 +8,8 @@ meanwhile they bitch about blue accidently leaving bins in a project that they c
 IS NO MALWARE WITHOUT QUESTION. THere was also a .gitignore file, it was an obvious oversight and we can't even defend
 ourselves. 
 
+This is not even getting into the fact that the site is vulnerable other attacks. THE SOURCE OF OUR WALLETS FOR THE PUBLIC IS VASTLY INSECURE AND THEY ARE DOING NOTHING BUT SHUTTING DOWN DISCUSSION. 
+
 They are not just a risk to Ethereum Classic, they are a direct threat. Their project MUST be stopped.
 
 Their explorer has MAJOR security vulnerabilities and when I warned them, I wasn't even spoken to, I was immediately
