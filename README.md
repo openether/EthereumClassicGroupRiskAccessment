@@ -4,8 +4,8 @@ http://ethereumclassic.org gets a D security rating for security headers, just g
 data to everyone from facebook, twitter, reddit, random Netherlands advertisers. 
 
 They have NO RESPECT for you or your privacy, they have no ability to protect that website to ensure the clients are safe
-meanwhile they bitch about blue accidently leaving bins in a project that they could compile and checksum AND KNOW THERE
-IS NO MALWARE WITHOUT QUESTION. THere was also a .gitignore file, it was an obvious oversight and we can't even defend
+**meanwhile they bitch about blue accidently leaving bins in a project that they could compile and checksum AND KNOW THERE
+IS NO MALWARE WITHOUT QUESTION.** So either they are too dumb to know that would have been that easy to check, or they are deliberately spreading lies to try to discredit anyone who obviously has more merit, and would rank higher in a meritocracy that they claim to support. There was also a .gitignore file, it was an obvious oversight and we can't even defend
 ourselves. 
 
 This is not even getting into the fact that the site is vulnerable other attacks. THE SOURCE OF OUR WALLETS FOR THE PUBLIC IS VASTLY INSECURE AND THEY ARE DOING NOTHING BUT SHUTTING DOWN DISCUSSION. 
